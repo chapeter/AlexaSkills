@@ -1,0 +1,13 @@
+{
+  "intents": [
+{
+      "intent": "lookupbysymbol",
+       "slots": [
+        {
+          "name": "symbol",
+          "type": "LITERAL"
+        }
+      ]
+    }
+]
+}

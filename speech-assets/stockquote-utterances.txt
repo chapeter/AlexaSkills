@@ -1,0 +1,3 @@
+lookupbysymbol Look up symbol {C|symbol} {S|symbol} {C|symbol} {O|symbol}
+lookupbysymbol Look up the price of symbol {C|symbol} {S|symbol} {C|symbol} {O|symbol}
+lookupbysymbol Look up symbol {F|symbol}

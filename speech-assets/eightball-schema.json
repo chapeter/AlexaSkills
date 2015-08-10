@@ -1,0 +1,13 @@
+{
+  "intents": [
+{
+      "intent": "Question",
+       "slots": [
+        {
+          "name": "Type",
+          "type": "LITERAL"
+        }
+      ]
+    }
+]
+}
